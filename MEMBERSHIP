@@ -1,0 +1,5 @@
+a=[14,56,47,78,90]
+if 34 in a:
+    print("yes")
+else:
+    print("no")
