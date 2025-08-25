@@ -1,0 +1,6 @@
+student=["KUNAL","JAAY","LUCKY","PETER","SALU"]
+cgpa=[89,90,46,23,47]
+arrear=[0,0,3,6,3]
+for i in range(6):
+    if arrear[i]==0 and cgpa[i]>60:
+        print(student[i]) 
